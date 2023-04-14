@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahesh Lamba</h1>
+<h1 align="center">Hi 👋, I'm Mahesh </h1>
 <h3 align="center">A passionate frontend & Android developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alienmonk&label=Profile%20views&color=0e75b6&style=flat" alt="alienmonk" /> </p>
