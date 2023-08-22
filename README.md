@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mklamba2001@gmail.com**
 
-- ⚡ Fun fact **I think i have a long lost son.**
+- ⚡ Fun fact **I think i am really good at playing table tennis.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
